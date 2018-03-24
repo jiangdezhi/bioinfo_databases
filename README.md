@@ -15,5 +15,6 @@ The command below takes an input file and generates 20 different scores and pred
 The output include various scores in the following columns: SIFT_score SIFT_pred Polyphen2_HDIV_score Polyphen2_HDIV_pred Polyphen2_HVAR_score Polyphen2_HVAR_pred LRT_score LRT_pred MutationTaster_score MutationTaster_pred MutationAssessor_score MutationAssessor_pred FATHMM_score FATHMM_pred PROVEAN_score PROVEAN_pred VEST3_score CADD_raw CADD_phred DANN_score fathmm-MKL_coding_score fathmm-MKL_coding_pred MetaSVM_score MetaSVM_pred MetaLR_score MetaLR_pred integrated_fitCons_score integrated_confidence_value GERP++_RS phyloP7way_vertebrate phyloP20way_mammalian phastCons7way_vertebrate phastCons20way_mammalian SiPhy_29way_logOdds.
 
 Detailed information for all the LJB23 databases are given below:
-    
-![](https://github.com/jiangdezhi/bioinfo_databases/ljb23_dbtype.png)
+
+！[](https://github.com/jiangdezhi/bioinfo_databases/ljb23_dbtype.png)
+>123
