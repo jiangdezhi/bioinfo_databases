@@ -16,4 +16,4 @@ The output include various scores in the following columns: SIFT_score SIFT_pred
 
 Detailed information for all the LJB23 databases are given below:
     
-
+![](https://github.com/jiangdezhi/bioinfo_databases/ljb23_dbtype.png)
