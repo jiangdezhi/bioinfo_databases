@@ -49,8 +49,7 @@ Both are similar to GERP++ and these three can be considered as competitors of e
 
 >PhyloP score is based on multiple alignments of 46 genomes. Similarly, SiPhy score is based on 29 mammals genomes. The larger the score, the more conserved the site.
 
-    注意：(1) these types of "conservation scores" only considers conservation level at the current base, and they do not care       about the actual nucleotide identity so synonymous and non-synonymous variants at the same site will be scored as the same       (2) these scores are not designed specifically for finding causal variants for Mendelian diseases, but for finding       
-    functionally important sites, so variants that confer increased susceptibility may be scored well(1.GERP++，PhyloP，siPhy三种     方法的保守性打分只考虑当前碱基的保守性水平，不考虑实际碱基的一致性，所以相同位置的同义和非同义突变的保守性是一样的。2.这些打分值不是专门设计用来     寻找导致孟德尔遗传病的变异，而是用来发现功能性的重要位点，所以只要变异被证明是增加了疾病易感性打分值都会比较高）
+    注意：(1) these types of "conservation scores" only considers conservation level at the current base, and they do not care  about the actual nucleotide identity so synonymous and non-synonymous variants at the same site will be scored as the same       (2) these scores are not designed specifically for finding causal variants for Mendelian diseases, but for finding functionally important sites, so variants that confer increased susceptibility may be scored well(1.GERP++，PhyloP，siPhy三种     方法的保守性打分只考虑当前碱基的保守性水平，不考虑实际碱基的一致性，所以相同位置的同义和非同义突变的保守性是一样的。2.这些打分值不是专门设计用来     寻找导致孟德尔遗传病的变异，而是用来发现功能性的重要位点，所以只要变异被证明是增加了疾病易感性打分值都会比较高）
    
 
 
